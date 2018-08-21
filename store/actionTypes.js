@@ -1,0 +1,1 @@
+export const ALERT_MOD = 'ALERT_MOD';
